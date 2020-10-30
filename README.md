@@ -23,7 +23,12 @@
 
 ## Referências
 
-<div style="text-align:center"><img src="Images/reference.png" /></div>
+<p align="center">
+  <br/>
+  <a href="#">
+    <img src="Images/reference.png" alt="Referências" width="444" height="232">
+  </a>
+</p>
 
 * **Links**
   * [Livro Pro Git](https://git-scm.com/book/en/v2)
@@ -60,10 +65,6 @@ Treinamento-Git-GitHub
 |    |  reference.png
 
 ```
-<hr/>
-
-[raulduarte.dev.br](#)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
